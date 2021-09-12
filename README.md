@@ -1,6 +1,6 @@
 # Python Científico
 
-**Algumas orientações sobre o repositório**
+**Algumas orientações sobre o repositório:**
 
 [:file_folder:] Cada pasta contém os notebooks com as listas e os gabaritos dos exercícios das bibliotecas.
 
