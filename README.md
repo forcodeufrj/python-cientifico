@@ -11,4 +11,4 @@
 [:link:] Playlist das aulas no YouTube: https://bit.ly/3A3KUiT
 <br/><br/>
 
-Equipe For_Code, </p>:purple_heart:
+Equipe for_code, </p>:purple_heart:
